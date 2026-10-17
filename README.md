@@ -53,6 +53,12 @@ Alle Befehle stehen im Programm unter **Befehle**.
 
 **Verändert BORDFUNK das Spiel?** Nein. Es liest die Tastenbelegung nur und sendet ganz normale Tastendrücke, wie eine Tastatur. Spieldateien werden nicht verändert.
 
+**Verträgt sich BORDFUNK mit Easy Anti-Cheat?** BORDFUNK greift nicht auf das laufende Spiel zu. Es liest nur Dateien (Tastenbelegung und Game.log) und drückt Tasten wie eine Tastatur.
+
+**Wo muss Star Citizen installiert sein?** Egal. BORDFUNK findet den Spielordner selbst. Falls nicht: **Einstellungen → Spiel & Anzeige → Star-Citizen-Ordner → Wählen …**
+
+**Star Citizen stürzt nach längerer Zeit ab?** Steht in der Game.log kurz vor dem Absturz „left to commit“, ist der Windows-Speicher voll. Star Citizen braucht über Stunden 40 GB und mehr. Hilfe: die Auslagerungsdatei vergrößern (Windows-Taste → `sysdm.cpl` → Erweitert → Leistung → Einstellungen → Erweitert → Virtueller Arbeitsspeicher, z. B. 40960 bis 65536 MB).
+
 **Braucht es Internet?** Nein. Spracherkennung und Stimmen laufen auf deinem PC.
 
 **Welche Sprache?** Deutsch. Weitere Sprachen sind in Arbeit.
