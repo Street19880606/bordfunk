@@ -2,8 +2,8 @@
 
 **Deine Crew hört mit.** Du sagst „Flugbereit“, „Schilde auf Maximum“ oder „Gunnar, Feuer frei“, und BORDFUNK drückt die passenden Tasten in Star Citizen. Zwei Crewmitglieder antworten mit eigener Stimme. Alles läuft **komplett offline**, ohne Konto, ohne Cloud und ohne Abo.
 
-> **Demo:** Die Demo kann alles, hört aber pro Programmstart 30 Minuten lang zu. Danach einfach neu starten.
-> **[⬇ Demo herunterladen](../../releases/latest)**
+> **Kostenlos und ohne Zeitlimit.** BORDFUNK ist und bleibt kostenlos.
+> **[⬇ BORDFUNK herunterladen](../../releases/latest)**
 
 ![Cockpit](bilder/cockpit.png)
 
@@ -63,7 +63,9 @@ Alle Befehle stehen im Programm unter **Befehle**.
 
 **Welche Sprache?** Deutsch. Weitere Sprachen sind in Arbeit.
 
-**Wie entferne ich die Demo?** Falls eingeschaltet, zuerst „Mit dem Spiel starten“ ausschalten, dann den Ordner löschen. Sonst wird nichts installiert.
+**Kostet BORDFUNK etwas?** Nein, BORDFUNK ist und bleibt kostenlos. Wer mag, kann freiwillig spenden.
+
+**Wie entferne ich BORDFUNK?** Falls eingeschaltet, zuerst „Mit dem Spiel starten“ ausschalten, dann den Ordner löschen. Sonst wird nichts installiert.
 
 ## Unterstützen
 
@@ -79,4 +81,4 @@ Wenn dir BORDFUNK gefällt, freue ich mich über eine kleine Spende über den **
 
 ### English
 
-**BORDFUNK** is an offline voice-control tool for Star Citizen with a virtual two-person crew. It currently understands **German** voice commands. It reads your in-game keybindings, presses the keys for you and announces game events. No account, no cloud. The demo has all features and listens for 30 minutes per start. Unofficial fan project, not affiliated with Cloud Imperium Games.
+**BORDFUNK** is an offline voice-control tool for Star Citizen with a virtual two-person crew. It currently understands **German** voice commands. It reads your in-game keybindings, presses the keys for you and announces game events. No account, no cloud. Free, no time limit. Unofficial fan project, not affiliated with Cloud Imperium Games.
