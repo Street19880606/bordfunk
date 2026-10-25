@@ -92,7 +92,7 @@ Wenn dir BORDFUNK gefällt, freue ich mich über eine kleine Spende über den **
 
 ## Lizenzen und Hinweise
 
-- BORDFUNK ist ein inoffizielles Fan-Projekt und steht in keiner Verbindung zu Cloud Imperium Games oder Frontier Developments. Star Citizen® ist eine Marke von Cloud Imperium Rights LLC, Elite Dangerous ist eine Marke von Frontier Developments plc.
+- BORDFUNK ist ein inoffizielles Fan-Projekt und steht in keiner Verbindung zu den Herstellern von Star Citizen und Elite Dangerous. Alle Marken gehören ihren jeweiligen Inhabern.
 - Die verwendeten Bestandteile und ihre Lizenzen stehen im Programmordner unter `lizenzen\`.
 - Das Sprachmodul nutzt Piper und eSpeak NG (GPL-3.0). Sein Quelltext liegt unter `quelltext\`.
 
@@ -100,4 +100,4 @@ Wenn dir BORDFUNK gefällt, freue ich mich über eine kleine Spende über den **
 
 ### English
 
-**BORDFUNK** is an offline voice-control tool for Star Citizen (and Elite Dangerous) with a virtual two-person crew. It understands **German and English** voice commands. It reads your in-game keybindings, presses the keys for you, announces game events, tracks your contracts and recaps your session. No account, no cloud. Free, no time limit. Unofficial fan project, not affiliated with Cloud Imperium Games or Frontier Developments.
+**BORDFUNK** is an offline voice-control tool for Star Citizen (and Elite Dangerous) with a virtual two-person crew. It understands **German and English** voice commands. It reads your in-game keybindings, presses the keys for you, announces game events, tracks your contracts and recaps your session. No account, no cloud. Free, no time limit. Unofficial fan project, not affiliated with the makers of Star Citizen or Elite Dangerous.
