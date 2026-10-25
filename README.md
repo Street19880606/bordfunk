@@ -54,6 +54,13 @@
 
 Alle Befehle stehen im Programm unter **Befehle**.
 
+## So sieht es aus
+
+| | |
+|---|---|
+| ![Einrichtungs-Assistent](bilder/assistent.png) | ![Eigener Befehl mit aufgenommener Tastenfolge](bilder/eigene-befehle.png) |
+| ![Alle Befehle](bilder/befehle.png) | ![Einstellungen, Stimmen und Crew](bilder/crew.png) |
+
 ## Voraussetzungen
 
 - Windows 10 oder 11 (64 Bit)
